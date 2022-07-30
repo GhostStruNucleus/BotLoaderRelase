@@ -1,13 +1,4 @@
 selenium
 colorama
-os
-time
-selenium.webdriver.common.by
-threading
-warnings
-selenium.webdriver.support.ui
-selenium.webdriver.support
 chromedriver_autoinstaller
-selenium.webdriver.chrome.service
 undetected_chromedriver
-datetime
